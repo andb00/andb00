@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello!
+**CS student @ SDSU**
 
+Currently learning mobile development specifically iOS and
+interset in artificial intelligance.
 <!--
 **andb00/andb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
