@@ -1,8 +1,18 @@
-## Hello!
-**CS student @ SDSU**
 
-Currently learning mobile development specifically iOS and
-interset in artificial intelligance.
+# Hi, I'm Andrew! 👋
+
+
+## 🚀 About Me
+I'm a computer science student at SDSU who is interseted in iOS development and artificial intelligence.
+
+
+👩‍💻 I'm currently working on a messaging application
+
+🧠 I'm currently learning Firebase
+
+
+## 🛠 Skills
+Python, Swift, SwiftUI, Javascript, React, C/C++
 <!--
 **andb00/andb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
