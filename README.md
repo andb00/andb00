@@ -8,7 +8,7 @@ I'm a computer science student at SDSU who is interseted in iOS development and 
 
 👩‍💻 I'm currently working on a messaging application
 
-🧠 I'm currently learning Firebase and computer vision
+🧠 I'm currently learning Firebase and PyTorch
 
 
 ## 🛠 Skills
