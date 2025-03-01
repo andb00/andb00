@@ -1,5 +1,5 @@
 
-# Hello, I'm Andrew! 👋
+# Hello, I'm Andrew! 
 
 
 ## 🚀 About Me
