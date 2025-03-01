@@ -6,13 +6,13 @@
 I'm a computer science student at SDSU who is interseted in iOS development and artificial intelligence.
 
 
-👩‍💻 I'm currently working on a messaging application
+👩‍💻 I'm currently working on an app. 
 
-🧠 I'm currently learning Firebase, PyTorch, and computer vision
+🧠 I'm currently learning Swift conccurency and computer vision. 
 
 
 ## 🛠 Skills
-Python, Swift, SwiftUI, Javascript, React, C/C++
+Python, Swift, SwiftUI, Javascript, React, Firebase
 <!--
 **andb00/andb00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
