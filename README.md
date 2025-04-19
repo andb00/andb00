@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a computer science student at SDSU who has a passion in iOS development and an interest in AI..
+I'm a computer science student at SDSU who has a passion in iOS development and an interest in AI.
 
 🧠 I'm currently learning Swift conccurency and computer vision. 
 
