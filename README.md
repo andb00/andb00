@@ -1,29 +1,39 @@
-# Hello there! 👋🏻
+# 👋🏻 Hey there! I'm Andrew
+
+## About Me
+A CS grad from SDSU who loves building software and solving real-world problems. I’m always curious about how things work and love breaking down complex problems into simple, elegant code. My background includes mobile development, machine learning, and backend systems — and I’m currently working on an app that brings those areas together.
 
 ```swift
 let andb00 = AndrewBetancourt(
-    code: ["Swift", "Python", "C", "Java", "JavaScript", "C++"],
-    architecture: [
-        FrontEnd(
-            swift: ["SwiftUI", "UIKit"]
-            js: ["React", "Next.js"],
-            css: ["Vanilla", "Tailwind"],
-        ),
-        BackEnd(
-            js: ["Node", "NextJS"],
-            python: ["Django"],
-        ),
-        MobileApp(
-            crossPlatform: "React Native",
-            native: "iOS"
-        ),
+    languages: ["Swift", "Python", "C", "C++", "Java", "JavaScript"],
+    frontend: [
+        "SwiftUI", "UIKit",
+        "React", "Next.js",
+        "Tailwind", "Vanilla CSS"
     ],
-    libraries: ["PyTorch", "Tensorflow", "OpenCV", "MapKit", "Firebase"],
-    devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
-    cloudServices: "Google Cloud",
-    databases: ["PostgreSQL", "Firebase Firestore DB"],
-    misc: ["REST APIs", "WebSockets", "Cloud Functions", "Swift Concurrency"],
+    backend: [
+        "Node.js", "Next.js (API Routes)",
+        "Django", "Sanity.io", "Firebase"
+    ],
+    mobile: [
+        "iOS (Native)", "React Native"
+    ],
+    machineLearning: [
+        "PyTorch", "TensorFlow", "OpenCV"
+    ],
+    devOps: [
+        "Docker 🐳", "GitHub Actions", "CI/CD"
+    ],
+    cloud: [
+        "Google Cloud", "Firebase"
+    ],
+    databases: [
+        "PostgreSQL", "Firestore DB"
+    ],
+    tools: [
+        "REST APIs", "WebSockets", "MapKit", "Swift Concurrency"
+    ],
     currentFocus: "Building an app 📱",
-    funFact: "One of my cats acts like a dog."
+    funFact: "One of my cats acts like a dog 🐶🐱"
 )
 ```
